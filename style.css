@@ -1,0 +1,50 @@
+body {
+     font-family: Arial, sans-serif;
+     font-size: 20px;
+     background-color: rgb(178, 162, 162);
+}
+   
+   form {
+     max-width: 600px;
+     margin: 0 auto;
+   }
+   
+   label {
+     display: block;
+     margin-top: 10px;
+   }
+   
+input, textarea, select {
+     width: 100%;
+     padding: 5px;
+     margin-top: 5px;
+   }
+
+button {
+     margin-top: 10px;
+   }
+h1 {
+     text-align: center;
+   }
+p.up {
+     text-align: center;
+   }
+
+#survey-form {
+     background-color: rgb(58, 58, 82);
+     padding: 4%;
+     border-radius: 1%;
+     color: rgb(255, 255, 255);
+}
+#comments{
+     height: 100px;
+}
+button{
+     cursor: pointer;
+     padding: 10px;
+     background-color: rgb(40, 109, 40);
+     color: rgb(255, 255, 255);
+     border-color: rgb(40, 109, 40);
+     width: 100%;
+     font-size: large;
+}
